@@ -23,7 +23,7 @@ Select FSRM under File and Storage Services
 **Step 2**: Open FSRM Console
 Open Server Manager > Tools > File Server Resource Manager
 
-**Step3** Create a File Screen Template**
+**Step3 Create a File Screen Template**
 Navigate to File Screening Management > File Screen Templates
 Click Create File Screen Template
 Name it: Block_Media_Files
