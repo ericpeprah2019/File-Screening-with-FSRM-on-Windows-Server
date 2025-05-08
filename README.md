@@ -14,6 +14,7 @@ Admin rights
 Shared folder to apply screen (e.g., D:\StaffFiles)
 
 **Step-by-Step Configuration**
+
 **Step-1**
 Server Manager > Add Roles and Features
 Select FSRM under File and Storage Services
