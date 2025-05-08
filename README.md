@@ -3,6 +3,7 @@ File Screening with FSRM on Windows Server
 
  **Overview**
 This project demonstrates how to configure File Server Resource Manager (FSRM) on Windows Server to block specific file types (e.g.Mulitimedia Files) in shared folders using File Screening.
+
 Tools & Requirements
 Windows Server 2016/2019/2022/2025
 
